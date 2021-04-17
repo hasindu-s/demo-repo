@@ -8,4 +8,4 @@ Subheader content
 
 ## Local Development
 
-Open index.html in your browser
+Open index.html in your internet browser
